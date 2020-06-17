@@ -8,3 +8,5 @@ These are a series of notebooks that focuses on exploring nigerian life through 
 * **(Project 2) Crime in Nigeria**: This aims to explore crime activity in nigeria by state based on frequency tables from the Nigerian burea of statistics. I gathered data from the Nigerian bureau of statistics on the crime statistics of each state inthe year 2017, thecrime were predivided into several worksheets by a categorical groupin determined by the nigerian police force.i combined these three worksheets into a single csv file while creating another csv file for the totals of the categories
 
 * **comming soon time series analysis of food prices in Nigeria**
+
+**constructive criticism and suggestions are always welcome**
