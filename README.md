@@ -7,6 +7,7 @@ These are a series of notebooks that focuses on exploring nigerian life through 
 
 * **(Project 2) Crime in Nigeria**: This aims to explore crime activity in nigeria by state based on frequency tables from the Nigerian burea of statistics. I gathered data from the Nigerian bureau of statistics on the crime statistics of each state inthe year 2017, thecrime were predivided into several worksheets by a categorical groupin determined by the nigerian police force.i combined these three worksheets into a single csv file while creating another csv file for the totals of the categories
 
-* **comming soon time series analysis of food prices in Nigeria**
+* **(Project 3) Time series analysis and Forcasting of Nigerian Food prices**: this project aims to study the price change patterns of different foods, the difference in patterns in differeent geopolitical regions of the country, the project consists of two different notebooks, one centering around the National average values of different foodand devoloping Price forecasting methods of an assumed food expenditure per month while the other notebook is focused on comparing different regional prices and Presenting a theory to explain the data.
+
 
 **constructive criticism and suggestions are always welcome**
