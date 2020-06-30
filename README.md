@@ -9,5 +9,6 @@ These are a series of notebooks that focuses on exploring nigerian life through 
 
 * **(Project 3) Time series analysis and Forcasting of Nigerian Food prices**: this project aims to study the price change patterns of different foods, the difference in patterns in differeent geopolitical regions of the country, the project consists of two different notebooks, one centering around the National average values of different foodand devoloping Price forecasting methods of an assumed food expenditure per month while the other notebook is focused on comparing different regional prices and Presenting a theory to explain the data.
 
+**timeseries analysis of nigerian power generation**
 
 **constructive criticism and suggestions are always welcome**
